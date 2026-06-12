@@ -1,0 +1,1 @@
+This folder stores raw ETF data downloaded from AKShare. Raw data files are not tracked by Git.
